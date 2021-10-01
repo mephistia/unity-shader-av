@@ -90,8 +90,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - NoiseScale: 2.299845
-    - TimeSpeed: 0.5
+    - NoiseScale: 1
+    - TimeSpeed: 0.1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
